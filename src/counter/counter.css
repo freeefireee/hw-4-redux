@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(87, 96, 104);
+}
+
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    margin-left: 45%;
+    margin-top: 15%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    margin-top: 40px;
+}
